@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Telling</string>
+    <string name="facebook_app_id">938661380050522</string>
+    <string name="fb_login_protocol_scheme">fb938661380050522</string>
+    <string name="facebook_client_token">ff5f928ec34f74acdf460b0dcc13d476</string>
+</resources>
